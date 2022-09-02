@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niclast7611" alt="niclast7611" /></a> </p>
 
-- 🌱 I’m currently learning **Php and Laravel**
+- 🌱 I’m currently working on **a Next.js and Shopify eCommerce store which can be viewed at my shopify-houseplants repo, go checkout my progress**
 
 - 👨‍💻 Some of my projects are available at [https://niclast7611.github.io/nl-portfolio/](https://niclast7611.github.io/nl-portfolio/)
 
-- 💬 Ask me about **Most things React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **niclastdev3@gmail.com**
 
